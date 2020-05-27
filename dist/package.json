@@ -1,0 +1,17 @@
+{
+    "version": "1.0.0",
+    "author": {"name":"Steve Zhu","email":"steve.zhu@hcc.govt.nz"},
+    "resources": [
+        {
+            "resourceId": "rId0",
+            "sourceType": 5,
+            "file": "resources/circleCardE08A223C5DE64D3FAB33E68C3A890E67.pbiviz.json"
+        }
+    ],
+    "visual": {"name":"circleCard","displayName":"Circle Card","guid":"circleCardE08A223C5DE64D3FAB33E68C3A890E67","visualClassName":"Visual","version":"1.0.0","description":"Displays a formatted measure value inside a circle","supportUrl":"hb.com","gitHubUrl":""},
+    "metadata": {
+        "pbivizjson": {
+            "resourceId": "rId0"
+        }
+    }  
+}
