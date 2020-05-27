@@ -11,7 +11,7 @@
             "displayName": "Circle",
             "properties": {
                 "circleColor": {
-                    "displayName": "Color",
+                    "displayName": "Circle Color",
                     "description": "The fill color of the circle.",
                     "type": {
                         "fill": {
@@ -63,6 +63,15 @@
                             "solid": {
                                 "color": true
                             }
+                        }
+                    }
+                },
+                "textFontSize": {
+                    "displayName": "Font Size",
+                    "description": "Set Font Size",
+                    "type": {
+                        "formatting": {
+                            "fontSize": true
                         }
                     }
                 }

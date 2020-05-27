@@ -7,7 +7,7 @@
         "version": "1.0.0",
         "description": "Displays a formatted measure value inside a circle",
         "supportUrl": "hb.com",
-        "gitHubUrl": ""
+        "gitHubUrl": "https://github.com/zhuhaobo/CircleCard"
     },
     "apiVersion": "2.6.0",
     "author": {

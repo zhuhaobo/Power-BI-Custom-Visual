@@ -38,6 +38,7 @@ export class CircleSettings {
 export class TextSettings {
   public textValueColor: string = "black";
   public textLabelColor: string = "green";
+  public textFontSize: number = 2;
 }
 export class VisualSettings extends DataViewObjectsParser {
   public circle: CircleSettings = new CircleSettings();

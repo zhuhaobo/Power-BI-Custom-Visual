@@ -105,7 +105,7 @@ export class Visual implements IVisual {
             .attr("dy", fontSizeValue / 1.2)
             .attr("text-anchor", "middle")
             .style("fill", this.visualSettings.text.textLabelColor)
-            .style("font-size", fontSizeLabel + "px");
+            .style("font-size", this.visualSettings.text.textFontSize);
     }
 
 }
